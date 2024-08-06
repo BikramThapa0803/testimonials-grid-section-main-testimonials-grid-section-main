@@ -21,9 +21,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
-  padding-top: 30px;
-    padding-bottom: 30px;
+ height: 100vh;
 }
 
 .sec-container {
@@ -194,7 +192,7 @@ body {
   justify-content: start;
   align-items: center;
   color: black;
-  padding-top: 20px;
+  /* padding-top: 20px; */
   padding-left: 20px;
   padding-right: 20px;
   gap: 10px;
@@ -206,6 +204,7 @@ body {
   width: 100%;
   gap: 10px;
   align-items: center;
+  padding-top: 20px;
 }
 
 .icon-box5 img {
